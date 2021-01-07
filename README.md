@@ -2,7 +2,7 @@
 This has built by using pure javascript without any frameworks.
 
 ## Usage
-Here's [a little demo](https://codepen.io/pen/) for project.
+Here's [a little demo](https://codepen.io/hsglc/pen/NWRzBxZ) for project.
 
 ## Appearance
 
